@@ -16,7 +16,7 @@ titled 'SIGN UP' and includes fields for Name, E-mail, Age, Password, and
 Re-input Password, which are required for user registration. Users can
 input their name and email, and for the age field, they can either input a
 value or use an arrow to adjust the number, as shown below. The
-password input is visually encrypted, displaying '*' characters, as is the reinput password field. The submit button is hoverable, changing color when hovered over, and clickable. Additionally, there is a clickable link to
+password input is visually encrypted, displaying '*' characters, as is the re-input password field. The submit button is hoverable, changing color when hovered over, and clickable. Additionally, there is a clickable link to
 the log-in page.
 
 The additional page, which is the contact page, showcases the shop's
